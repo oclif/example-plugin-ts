@@ -1,7 +1,7 @@
 {
   "name": "@dxcli/example-plugin-ts",
   "description": "example dxcli plugin in typescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/dxcli/example-plugin-ts/issues",
   "dependencies": {
