@@ -28,6 +28,7 @@ hello myname from hello!
 `,
     '$ example-plugin-ts hello file outputs "hello world!" to file',
     '$ example-plugin-ts hello --force',
+    '$ example-plugin-ts hello --help',
   ]
 
   // allow running this command by running `$ example-plugin-ts foobar`
