@@ -8,7 +8,7 @@
   },
   "bugs": "https://github.com/anycli/example-plugin-ts/issues",
   "dependencies": {
-    "@anycli/command": "^0.2.24",
+    "@anycli/command": "^0.3.0",
     "cli-ux": "^3.3.12"
   },
   "devDependencies": {
