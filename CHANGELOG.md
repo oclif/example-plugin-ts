@@ -1,3 +1,21 @@
+<a name="0.8.0"></a>
+# [0.8.0](https://github.com/anycli/example-plugin-ts/compare/ab35680f13d0926b5589982973d93ef2a837661d...v0.8.0) (2018-02-02)
+
+
+### Bug Fixes
+
+* anycli v0.32.1 ([1a4ae15](https://github.com/anycli/example-plugin-ts/commit/1a4ae15))
+* anycli v0.32.2 ([dc2835d](https://github.com/anycli/example-plugin-ts/commit/dc2835d))
+* anycli v0.32.3 ([09ec290](https://github.com/anycli/example-plugin-ts/commit/09ec290))
+* anycli v0.32.4 ([47b1195](https://github.com/anycli/example-plugin-ts/commit/47b1195))
+* anycli v0.32.5 ([57d258f](https://github.com/anycli/example-plugin-ts/commit/57d258f))
+* anycli v0.32.6 ([e6d730e](https://github.com/anycli/example-plugin-ts/commit/e6d730e))
+
+
+### Features
+
+* anycli v0.32.0 ([83b502e](https://github.com/anycli/example-plugin-ts/commit/83b502e))
+
 <a name="0.7.1"></a>
 ## [0.7.1](https://github.com/anycli/example-plugin-ts/compare/57e385cab8497a4555d20a522a99545a1da62ed2...v0.7.1) (2018-02-01)
 
