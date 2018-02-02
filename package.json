@@ -40,6 +40,7 @@
     "node": ">=8.0.0"
   },
   "files": [
+    ".anycli.manifest.json",
     "/lib"
   ],
   "homepage": "https://github.com/anycli/example-plugin-ts",
