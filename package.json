@@ -16,8 +16,9 @@
   },
   "devDependencies": {
     "@anycli/config": "^0.3.0",
-    "@anycli/engine": "^0.2.1",
-    "@anycli/plugin-help": "^0.3.7",
+    "@anycli/dev-cli": "^0.1.1",
+    "@anycli/engine": "^0.3.0",
+    "@anycli/plugin-help": "^0.4.1",
     "@anycli/test": "^0.10.3",
     "@anycli/tslint": "^0.2.2",
     "@types/chai": "^4.1.2",
@@ -51,7 +52,7 @@
     "build": "rm -rf lib && tsc",
     "lint": "concurrently -p command \"eslint .\" \"tsc -p test --noEmit\" \"tslint -p test\"",
     "posttest": "yarn run lint",
-    "prepublishOnly": "yarn run build",
+    "prepublishOnly": "yarn run build && anycli-dev manifest > .anycli.manifest.json",
     "test": "mocha --forbid-only \"test/**/*.test.ts\""
   }
 }
