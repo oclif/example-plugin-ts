@@ -1,3 +1,11 @@
+<a name="0.8.2"></a>
+## [0.8.2](https://github.com/anycli/example-plugin-ts/compare/ba9b6c6e4610675287a860fe913f023fff91d6d1...v0.8.2) (2018-02-02)
+
+
+### Bug Fixes
+
+* anycli v0.32.8 ([e087ef8](https://github.com/anycli/example-plugin-ts/commit/e087ef8))
+
 <a name="0.8.1"></a>
 ## [0.8.1](https://github.com/anycli/example-plugin-ts/compare/e6d730e657290632783e655a76bda906833d8ce8...v0.8.1) (2018-02-02)
 
