@@ -42,6 +42,7 @@ jobs:
     <<: *test
     steps:
       - checkout
+      - attach_workspace: {at: node_modules}
       - run: yarn global add greenkeeper-lockfile@1
       - run: yarn add -D $DEPS
       - save_cache:
@@ -84,9 +85,4 @@ workflows:
           requires:
             - node-latest
             - node-8
-      - cache:
-          filters:
-            tags:
-              only: /^v.*/
-            branches:
-              ignore: /.*/
+      - cache: {requires: [release] }
