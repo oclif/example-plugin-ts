@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@anycli/config": "^0.2.11",
-    "@anycli/engine": "^0.1.48",
+    "@anycli/engine": "^0.2.0",
     "@anycli/plugin-help": "^0.3.7",
     "@anycli/test": "^0.10.3",
     "@anycli/tslint": "^0.2.2",
