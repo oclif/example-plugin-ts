@@ -1,7 +1,7 @@
 {
   "name": "@anycli/example-plugin-ts",
   "description": "example dxcli plugin in typescript",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "author": "Jeff Dickey @jdxcode",
   "anycli": {
     "commands": "./lib/commands",
