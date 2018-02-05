@@ -12,10 +12,10 @@
   "bugs": "https://github.com/anycli/example-plugin-ts/issues",
   "dependencies": {
     "@anycli/command": "^1.2.4",
-    "cli-ux": "^3.3.14"
+    "cli-ux": "^3.3.15"
   },
   "devDependencies": {
-    "@anycli/config": "^1.1.2",
+    "@anycli/config": "^1.1.4",
     "@anycli/dev-cli": "^0.1.5",
     "@anycli/plugin-help": "^0.6.0",
     "@anycli/test": "^0.10.9",
@@ -50,7 +50,7 @@
   "repository": "anycli/example-plugin-ts",
   "scripts": {
     "build": "rm -rf lib && tsc",
-    "lint": "concurrently -p command \"eslint .\" \"tsc -p test --noEmit\" \"tslint -p test\"",
+    "lint": "concurrently -p command \"eslint .\" \"tsc -p test --noEmit\" \"tslint -p test -t stylish\"",
     "postpublish": "rm .anycli.manifest.json",
     "posttest": "yarn run lint",
     "prepublishOnly": "yarn run build && anycli-dev manifest",
