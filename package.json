@@ -5,7 +5,7 @@
   "author": "Jeff Dickey @jdxcode",
   "anycli": {
     "commands": "./lib/commands",
-    "plugins": [
+    "devPlugins": [
       "@anycli/plugin-help"
     ]
   },
