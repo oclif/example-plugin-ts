@@ -16,7 +16,7 @@
     "@anycli/errors": "^0.2.1"
   },
   "devDependencies": {
-    "@anycli/dev-cli": "^0.3.1",
+    "@anycli/dev-cli": "^0.3.2",
     "@anycli/plugin-help": "^0.6.8",
     "@anycli/test": "^0.10.11",
     "@anycli/tslint": "^0.2.7",
