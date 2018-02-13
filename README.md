@@ -13,5 +13,66 @@ example dxcli plugin in typescript
 [![License](https://img.shields.io/npm/l/@oclif/example-plugin-ts.svg)](https://github.com/oclif/example-plugin-ts/blob/master/package.json)
 
 <!-- install -->
+# Installing @oclif/example-plugin-ts
+
+with yarn:
+```
+$ yarn global add @oclif/example-plugin-ts
+```
+
+or with npm:
+```
+$ npm install -g @oclif/example-plugin-ts
+```
+<!-- installstop -->
 <!-- usage -->
+# Usage
+
+```sh-session
+$ @oclif/example-plugin-ts COMMAND
+running command...
+$ @oclif/example-plugin-ts (-v|--version|version)
+@oclif/example-plugin-ts/1.0.4 (linux-x64) node-v9.5.0
+$ @oclif/example-plugin-ts --help [COMMAND]
+USAGE
+  $ @oclif/example-plugin-ts COMMAND [OPTIONS]
+...
+```
+<!-- usagestop -->
 <!-- commands -->
+# Commands
+
+* [@oclif/example-plugin-ts hello [FILE] [OPTIONS]](#hello)
+## hello
+
+```
+USAGE
+  $ @oclif/example-plugin-ts hello [FILE] [OPTIONS]
+
+ARGUMENTS
+  FILE  file to output
+
+OPTIONS
+  -f, --force
+  -n, --name=name  name to print
+
+DESCRIPTION
+  Add a longer description here
+  ...
+  ...
+
+
+EXAMPLES
+  $ example-plugin-ts hello
+  hello world from hello!
+
+  $ example-plugin-ts hello --name myname
+  hello myname from hello!
+
+  $ example-plugin-ts hello file outputs "hello world!" to file
+  $ example-plugin-ts hello --force
+  $ example-plugin-ts hello --help
+```
+
+_See code: [@oclif/example-plugin-ts](https://github.com/oclif/example-plugin-ts/blob/v1.0.4/src/commands/hello.ts)_
+<!-- commandsstop -->
