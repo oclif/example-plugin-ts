@@ -1,7 +1,7 @@
 {
   "name": "@oclif/example-plugin-ts",
   "description": "example dxcli plugin in typescript",
-  "version": "0.9.19",
+  "version": "0.9.20",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/oclif/example-plugin-ts/issues",
   "dependencies": {
