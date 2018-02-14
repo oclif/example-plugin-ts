@@ -13,9 +13,9 @@ example dxcli plugin in typescript
 [![License](https://img.shields.io/npm/l/@oclif/example-plugin-ts.svg)](https://github.com/oclif/example-plugin-ts/blob/master/package.json)
 
 <!-- toc -->
-* [Install](#Install)
-* [Usage](#Usage)
-* [Commands](#Commands)
+* [Install](#install)
+* [Usage](#usage)
+* [Commands](#commands)
 <!-- tocstop -->
 <!-- install -->
 # Install
@@ -37,7 +37,7 @@ $ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-ts/1.1.2 (linux-x64) node-v9.5.0
+@oclif/example-plugin-ts/1.2.0 (linux-x64) node-v9.5.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND [OPTIONS]
@@ -49,6 +49,8 @@ USAGE
 
 * [oclif-example hello [FILE] [OPTIONS]](#hello)
 ## hello [FILE] [OPTIONS]
+
+Describe the command here
 
 ```
 USAGE
@@ -74,10 +76,10 @@ EXAMPLES
   $ oclif-example hello --name myname
   hello myname from hello!
 
-  $ oclif-example hello file outputs "hello world!" to file
+  $ oclif-example hello ./afile outputs "hello world!" to ./afile
   $ oclif-example hello --force
   $ oclif-example hello --help
 ```
 
-_See code: [@oclif/example-plugin-ts](https://github.com/oclif/example-plugin-ts/blob/v1.1.2/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.2.0/src/commands/hello.ts)_
 <!-- commandsstop -->

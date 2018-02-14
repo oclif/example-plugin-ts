@@ -22,7 +22,7 @@ hello world from hello!
     `$ oclif-example hello --name myname
 hello myname from hello!
 `,
-    '$ oclif-example hello file outputs "hello world!" to file',
+    '$ oclif-example hello ./afile outputs "hello world!" to ./afile',
     '$ oclif-example hello --force',
     '$ oclif-example hello --help',
   ]
