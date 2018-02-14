@@ -37,7 +37,7 @@ $ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-ts/1.2.1 (linux-x64) node-v9.5.0
+@oclif/example-plugin-ts/1.2.2 (linux-x64) node-v9.5.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND [OPTIONS]
@@ -82,5 +82,5 @@ EXAMPLES
   $ oclif-example hello --help
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.2.1/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.2.2/src/commands/hello.ts)_
 <!-- commandsstop -->
