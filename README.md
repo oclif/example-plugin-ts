@@ -12,8 +12,13 @@ example dxcli plugin in typescript
 [![Downloads/week](https://img.shields.io/npm/dw/@oclif/example-plugin-ts.svg)](https://npmjs.org/package/@oclif/example-plugin-ts)
 [![License](https://img.shields.io/npm/l/@oclif/example-plugin-ts.svg)](https://github.com/oclif/example-plugin-ts/blob/master/package.json)
 
+<!-- toc -->
+* [Install](#Install)
+* [Usage](#Usage)
+* [Commands](#Commands)
+<!-- tocstop -->
 <!-- install -->
-# Installing @oclif/example-plugin-ts
+# Install
 
 with yarn:
 ```
@@ -29,25 +34,25 @@ $ npm install -g @oclif/example-plugin-ts
 # Usage
 
 ```sh-session
-$ @oclif/example-plugin-ts COMMAND
+$ oclif-example COMMAND
 running command...
-$ @oclif/example-plugin-ts (-v|--version|version)
-@oclif/example-plugin-ts/1.1.1 (linux-x64) node-v9.5.0
-$ @oclif/example-plugin-ts --help [COMMAND]
+$ oclif-example (-v|--version|version)
+@oclif/example-plugin-ts/1.1.2 (linux-x64) node-v9.5.0
+$ oclif-example --help [COMMAND]
 USAGE
-  $ @oclif/example-plugin-ts COMMAND [OPTIONS]
+  $ oclif-example COMMAND [OPTIONS]
 ...
 ```
 <!-- usagestop -->
 <!-- commands -->
 # Commands
 
-* [@oclif/example-plugin-ts hello [FILE] [OPTIONS]](#hello)
+* [oclif-example hello [FILE] [OPTIONS]](#hello)
 ## hello [FILE] [OPTIONS]
 
 ```
 USAGE
-  $ @oclif/example-plugin-ts hello [FILE] [OPTIONS]
+  $ oclif-example hello [FILE] [OPTIONS]
 
 ARGUMENTS
   FILE  file to output
@@ -63,16 +68,16 @@ DESCRIPTION
 
 
 EXAMPLES
-  $ example-plugin-ts hello
+  $ oclif-example hello
   hello world from hello!
 
-  $ example-plugin-ts hello --name myname
+  $ oclif-example hello --name myname
   hello myname from hello!
 
-  $ example-plugin-ts hello file outputs "hello world!" to file
-  $ example-plugin-ts hello --force
-  $ example-plugin-ts hello --help
+  $ oclif-example hello file outputs "hello world!" to file
+  $ oclif-example hello --force
+  $ oclif-example hello --help
 ```
 
-_See code: [@oclif/example-plugin-ts](https://github.com/oclif/example-plugin-ts/blob/v1.1.1/src/commands/hello.ts)_
+_See code: [@oclif/example-plugin-ts](https://github.com/oclif/example-plugin-ts/blob/v1.1.2/src/commands/hello.ts)_
 <!-- commandsstop -->

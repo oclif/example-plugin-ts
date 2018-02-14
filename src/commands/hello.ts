@@ -16,18 +16,18 @@ Extra documentation goes here
   // static usage = 'title of command'
 
   static examples = [
-    `$ example-plugin-ts hello
+    `$ oclif-example hello
 hello world from hello!
 `,
-    `$ example-plugin-ts hello --name myname
+    `$ oclif-example hello --name myname
 hello myname from hello!
 `,
-    '$ example-plugin-ts hello file outputs "hello world!" to file',
-    '$ example-plugin-ts hello --force',
-    '$ example-plugin-ts hello --help',
+    '$ oclif-example hello file outputs "hello world!" to file',
+    '$ oclif-example hello --force',
+    '$ oclif-example hello --help',
   ]
 
-  // allow running this command by running `$ example-plugin-ts foobar`
+  // allow running this command by running `$ oclif-example foobar`
   // static aliases = ['foobar']
 
   static flags = {

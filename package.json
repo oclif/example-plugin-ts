@@ -10,7 +10,7 @@
     "@oclif/errors": "^1.0.1"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "^1.1.0",
+    "@oclif/dev-cli": "^1.2.0",
     "@oclif/plugin-help": "^1.0.1",
     "@oclif/test": "^1.0.1",
     "@oclif/tslint": "^1.0.1",
@@ -38,6 +38,7 @@
   "license": "MIT",
   "oclif": {
     "commands": "./lib/commands",
+    "bin": "oclif-example",
     "devPlugins": [
       "@oclif/plugin-help"
     ]
