@@ -4,7 +4,7 @@
 example dxcli plugin in typescript
 
 [![Version](https://img.shields.io/npm/v/@oclif/example-plugin-ts.svg)](https://npmjs.org/package/@oclif/example-plugin-ts)
-[![CircleCI](https://circleci.com/gh/oclif/example-plugin-ts/tree/master.svg?style=svg)](https://circleci.com/gh/oclif/example-plugin-ts/tree/master)
+[![CircleCI](https://circleci.com/gh/oclif/example-plugin-ts/tree/master.svg?style=shield)](https://circleci.com/gh/oclif/example-plugin-ts/tree/master)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/oclif/example-plugin-ts?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/example-plugin-ts/branch/master)
 [![Codecov](https://codecov.io/gh/oclif/example-plugin-ts/branch/master/graph/badge.svg)](https://codecov.io/gh/oclif/example-plugin-ts)
 [![Greenkeeper](https://badges.greenkeeper.io/oclif/example-plugin-ts.svg)](https://greenkeeper.io/)
@@ -37,7 +37,7 @@ $ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-ts/1.2.14 (linux-x64) node-v9.5.0
+@oclif/example-plugin-ts/1.3.0 (linux-x64) node-v9.5.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
