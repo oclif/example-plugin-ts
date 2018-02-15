@@ -37,7 +37,7 @@ $ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-ts/1.2.9 (linux-x64) node-v9.5.0
+@oclif/example-plugin-ts/1.2.10 (linux-x64) node-v9.5.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
@@ -50,24 +50,15 @@ USAGE
 * [oclif-example hello [FILE]](#hello)
 ## hello [FILE]
 
-Describe the command here
+describe the command here
 
 ```
 USAGE
   $ oclif-example hello [FILE]
 
-ARGUMENTS
-  FILE  file to output
-
 OPTIONS
   -f, --force
   -n, --name=name  name to print
-
-DESCRIPTION
-  Describe the command here
-  ...
-  Extra documentation goes here
-
 
 EXAMPLES
   $ oclif-example hello
@@ -75,12 +66,7 @@ EXAMPLES
 
   $ oclif-example hello --name myname
   hello myname from .src/hello.ts!
-
-  $ oclif-example hello ./afile
-  # outputs "hello world!" to ./afile
-  $ oclif-example hello --force
-  $ oclif-example hello --help
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.2.9/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.2.10/src/commands/hello.ts)_
 <!-- commandsstop -->
