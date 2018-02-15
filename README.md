@@ -37,10 +37,10 @@ $ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-ts/1.2.5 (linux-x64) node-v9.5.0
+@oclif/example-plugin-ts/1.2.6 (linux-x64) node-v9.5.0
 $ oclif-example --help [COMMAND]
 USAGE
-  $ oclif-example COMMAND [OPTIONS]
+  $ oclif-example COMMAND
 ...
 ```
 <!-- usagestop -->
@@ -71,10 +71,10 @@ DESCRIPTION
 
 EXAMPLES
   $ oclif-example hello
-  hello world from hello!
+  hello world from ./src/hello.ts!
 
   $ oclif-example hello --name myname
-  hello myname from hello!
+  hello myname from .src/hello.ts!
 
   $ oclif-example hello ./afile
   # outputs "hello world!" to ./afile
@@ -82,5 +82,5 @@ EXAMPLES
   $ oclif-example hello --help
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.2.5/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.2.6/src/commands/hello.ts)_
 <!-- commandsstop -->
