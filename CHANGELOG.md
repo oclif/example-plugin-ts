@@ -1,3 +1,11 @@
+<a name="1.3.3"></a>
+## [1.3.3](https://github.com/oclif/example-plugin-ts/compare/948f2005c90f0b134531fc1dc03e4d4f56cf19f4...v1.3.3) (2018-02-15)
+
+
+### Bug Fixes
+
+* oclif v1.3.3 ([ab886e1](https://github.com/oclif/example-plugin-ts/commit/ab886e1))
+
 <a name="1.3.2"></a>
 ## [1.3.2](https://github.com/oclif/example-plugin-ts/compare/ab2ab06e5a879ddfd1ffcd3e377a35ae4127c36a...v1.3.2) (2018-02-15)
 
