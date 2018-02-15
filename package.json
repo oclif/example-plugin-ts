@@ -10,7 +10,7 @@
     "@oclif/errors": "^1.0.2"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "^1.2.7",
+    "@oclif/dev-cli": "^1.2.8",
     "@oclif/plugin-help": "^1.0.2",
     "@oclif/test": "^1.0.1",
     "@oclif/tslint": "^1.0.2",
