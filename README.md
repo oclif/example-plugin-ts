@@ -68,5 +68,5 @@ EXAMPLES
   hello myname from .src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.3.14/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.4.0/src/commands/hello.ts)_
 <!-- commandsstop -->
