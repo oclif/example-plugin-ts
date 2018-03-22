@@ -7,9 +7,6 @@ export default class Hello extends Command {
     `$ oclif-example hello
 hello world from ./src/hello.ts!
 `,
-    `$ oclif-example hello --name myname
-hello myname from .src/hello.ts!
-`,
   ]
 
   static flags = {
