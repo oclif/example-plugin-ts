@@ -13,31 +13,18 @@ example dxcli plugin in typescript
 [![License](https://img.shields.io/npm/l/@oclif/example-plugin-ts.svg)](https://github.com/oclif/example-plugin-ts/blob/master/package.json)
 
 <!-- toc -->
-* [Install](#install)
 * [Usage](#usage)
 * [Commands](#commands)
 <!-- tocstop -->
-<!-- install -->
-# Install
-
-with yarn:
-```
-$ yarn global add @oclif/example-plugin-ts
-```
-
-or with npm:
-```
-$ npm install -g @oclif/example-plugin-ts
-```
-<!-- installstop -->
 <!-- usage -->
 # Usage
 
 ```sh-session
+$ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-ts/1.4.0 (linux-x64) node-v9.8.0
+@oclif/example-plugin-ts/1.4.1 linux-x64 node-v9.8.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
