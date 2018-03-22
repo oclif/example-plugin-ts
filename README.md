@@ -52,5 +52,5 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/oclif/example-plugin-ts/blob/v1.4.5/src/commands/hello.ts)_
+_See code: [lib/commands/hello.js](https://github.com/oclif/example-plugin-ts/blob/v1.4.5/lib/commands/hello.js)_
 <!-- commandsstop -->
