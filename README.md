@@ -16,9 +16,8 @@ example dxcli plugin in typescript
 * [Usage](#usage)
 * [Commands](#commands)
 <!-- tocstop -->
-<!-- usage -->
 # Usage
-
+<!-- usage -->
 ```sh-session
 $ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
@@ -31,9 +30,8 @@ USAGE
 ...
 ```
 <!-- usagestop -->
-<!-- commands -->
 # Commands
-
+<!-- commands -->
 * [oclif-example hello [FILE]](#hello-file)
 ## hello [FILE]
 
