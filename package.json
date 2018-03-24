@@ -5,12 +5,12 @@
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/oclif/example-plugin-ts/issues",
   "dependencies": {
-    "@oclif/command": "^1.4.4",
+    "@oclif/command": "^1.4.5",
     "@oclif/config": "^1.3.60"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.4.2",
-    "@oclif/plugin-help": "^1.1.8",
+    "@oclif/plugin-help": "^1.2.0",
     "@oclif/test": "^1.0.1",
     "@types/chai": "^4.1.2",
     "@types/mocha": "^5.0.0",
