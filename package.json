@@ -9,7 +9,7 @@
     "@oclif/config": "^1.4.3"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "^1.9.0",
+    "@oclif/dev-cli": "^1.9.1",
     "@oclif/plugin-help": "^1.2.3",
     "@oclif/test": "^1.0.4",
     "@types/chai": "^4.1.2",
