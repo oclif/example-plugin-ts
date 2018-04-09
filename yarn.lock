@@ -25,8 +25,8 @@
     debug "^3.1.0"
 
 "@oclif/dev-cli@1":
-  version "1.9.15"
-  resolved "https://registry.yarnpkg.com/@oclif/dev-cli/-/dev-cli-1.9.15.tgz#5527f0521b72cc2ec9a6fa65553b77f3ab529ac2"
+  version "1.9.16"
+  resolved "https://registry.yarnpkg.com/@oclif/dev-cli/-/dev-cli-1.9.16.tgz#2cc2942d5e8b92041aed41a04c4436fa11aa9c9d"
   dependencies:
     "@oclif/command" "^1.4.10"
     "@oclif/config" "^1.4.10"
