@@ -30,9 +30,9 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [oclif-example hello [FILE]](#oclif-example-hello-file)
+* [`oclif-example hello [FILE]`](#oclif-example-hello-file)
 
-## oclif-example hello [FILE]
+## `oclif-example hello [FILE]`
 
 describe the command here
 
