@@ -27,7 +27,7 @@
     "node": ">=8.0.0"
   },
   "files": [
-    ".oclif.manifest.json",
+    "/.oclif.manifest.json",
     "/lib"
   ],
   "homepage": "https://github.com/oclif/example-plugin-ts",
