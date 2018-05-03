@@ -1,3 +1,11 @@
+<a name="1.7.37"></a>
+## [1.7.37](https://github.com/oclif/example-plugin-ts/compare/v1.7.36...v1.7.37) (2018-05-03)
+
+
+### Bug Fixes
+
+* oclif v1.7.37 ([ce6ca56](https://github.com/oclif/example-plugin-ts/commit/ce6ca56))
+
 <a name="1.7.36"></a>
 ## [1.7.36](https://github.com/oclif/example-plugin-ts/compare/v1.7.35...v1.7.36) (2018-05-01)
 
