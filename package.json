@@ -28,7 +28,8 @@
   },
   "files": [
     "/lib",
-    "/oclif.manifest.json"
+    "/oclif.manifest.json",
+    "/yarn.lock"
   ],
   "homepage": "https://github.com/oclif/example-plugin-ts",
   "keywords": [
