@@ -22,7 +22,7 @@ $ npm install -g @oclif/example-plugin-ts
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-ts/1.8.2 linux-x64 node-v10.4.0
+@oclif/example-plugin-ts/1.8.2 linux-x64 node-v10.4.1
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
