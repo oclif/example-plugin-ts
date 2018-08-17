@@ -1,3 +1,16 @@
+# [1.9.0](https://github.com/oclif/example-plugin-ts/compare/v1.8.5...v1.9.0) (2018-08-17)
+
+
+### Bug Fixes
+
+* oclif v1.10.1 ([ee6c8f3](https://github.com/oclif/example-plugin-ts/commit/ee6c8f3)), closes [#149](https://github.com/oclif/example-plugin-ts/issues/149)
+
+
+### Features
+
+* oclif v1.10.0 ([f989bc3](https://github.com/oclif/example-plugin-ts/commit/f989bc3)), closes [#138](https://github.com/oclif/example-plugin-ts/issues/138) [#139](https://github.com/oclif/example-plugin-ts/issues/139)
+* oclif v1.9.0 ([6cfcd68](https://github.com/oclif/example-plugin-ts/commit/6cfcd68)), closes [#137](https://github.com/oclif/example-plugin-ts/issues/137)
+
 ## [1.8.5](https://github.com/oclif/example-plugin-ts/compare/v1.8.4...v1.8.5) (2018-07-02)
 
 
